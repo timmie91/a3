@@ -1,0 +1,15 @@
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question2\obj\Debug\question2.Form1.resources
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question2\obj\Debug\question2.Properties.Resources.resources
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question2\obj\Debug\question2.csproj.GenerateResource.Cache
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question2\bin\Debug\question2.exe.config
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question2\bin\Debug\question2.exe
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question2\bin\Debug\question2.pdb
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question2\obj\Debug\question2.exe
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question2\obj\Debug\question2.pdb
+C:\Users\tnguy\documents\visual studio 2013\Projects\Assignment1\question2\obj\Debug\question2.csprojResolveAssemblyReference.cache
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\question2\bin\Debug\question2.exe.config
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\question2\obj\Debug\question2.exe
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\question2\obj\Debug\question2.pdb
+C:\Users\tnguy\Google Drive\Fall 2015\CSE 445\1to3\question2\bin\Debug\question2.exe.config
+C:\Users\tnguy\Google Drive\Fall 2015\CSE 445\1to3\question2\obj\Debug\question2.exe
+C:\Users\tnguy\Google Drive\Fall 2015\CSE 445\1to3\question2\obj\Debug\question2.pdb

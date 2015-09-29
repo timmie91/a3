@@ -1,0 +1,5 @@
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\bin\Assignment1.dll.config
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\bin\Assignment1.dll
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\bin\Assignment1.pdb
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.dll
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

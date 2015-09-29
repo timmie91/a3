@@ -1,0 +1,12 @@
+C:\Users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\bin\Assignment1.dll.config
+C:\Users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\bin\Assignment1.dll
+C:\Users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\bin\Assignment1.pdb
+C:\Users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.dll
+C:\Users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\tnguy\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\1to3.csprojResolveAssemblyReference.cache
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\Assignment1\bin\Assignment1.dll.config
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\Assignment1\bin\Assignment1.dll
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\Assignment1\bin\Assignment1.pdb
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\Assignment1\obj\Debug\1to3.csprojResolveAssemblyReference.cache
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\Assignment1\obj\Debug\Assignment1.dll
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\Assignment1\obj\Debug\Assignment1.pdb

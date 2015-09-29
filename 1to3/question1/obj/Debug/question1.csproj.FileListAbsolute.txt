@@ -1,0 +1,14 @@
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question1\bin\Debug\question1.exe.config
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question1\bin\Debug\question1.exe
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question1\bin\Debug\question1.pdb
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question1\obj\Debug\question1.exe
+c:\users\tnguy\documents\visual studio 2013\Projects\Assignment1\question1\obj\Debug\question1.pdb
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\question1\bin\Debug\question1.exe.config
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\question1\obj\Debug\question1.exe
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\question1\obj\Debug\question1.pdb
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\question1\bin\Debug\question1.exe
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\question1\bin\Debug\question1.pdb
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\1to3\question1\obj\Debug\question1.csprojResolveAssemblyReference.cache
+C:\Users\tnguy\Google Drive\Fall 2015\CSE 445\1to3\question1\bin\Debug\question1.exe.config
+C:\Users\tnguy\Google Drive\Fall 2015\CSE 445\1to3\question1\obj\Debug\question1.exe
+C:\Users\tnguy\Google Drive\Fall 2015\CSE 445\1to3\question1\obj\Debug\question1.pdb

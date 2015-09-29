@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Assignment1/1to3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="question3/Account/Manage.aspx.cs">
+    <Files>
+      <File FileName="question3/Account/Manage.aspx.cs" Line="17" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
