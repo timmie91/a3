@@ -1,0 +1,12 @@
+c:\users\tnguy\documents\visual studio 2013\Projects\question4\question4\bin\Debug\question4.exe.config
+c:\users\tnguy\documents\visual studio 2013\Projects\question4\question4\bin\Debug\question4.exe
+c:\users\tnguy\documents\visual studio 2013\Projects\question4\question4\bin\Debug\question4.pdb
+c:\users\tnguy\documents\visual studio 2013\Projects\question4\question4\obj\Debug\question4.Form1.resources
+c:\users\tnguy\documents\visual studio 2013\Projects\question4\question4\obj\Debug\question4.Properties.Resources.resources
+c:\users\tnguy\documents\visual studio 2013\Projects\question4\question4\obj\Debug\question4to7.csproj.GenerateResource.Cache
+c:\users\tnguy\documents\visual studio 2013\Projects\question4\question4\obj\Debug\question4.exe
+c:\users\tnguy\documents\visual studio 2013\Projects\question4\question4\obj\Debug\question4.pdb
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\question4\question4\obj\Debug\question4to7.csprojResolveAssemblyReference.cache
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\4to7\question4\bin\Debug\question4.exe.config
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\4to7\question4\obj\Debug\question4.exe
+C:\Users\tnguy\Documents\Visual Studio 2013\Projects\4to7\question4\obj\Debug\question4.pdb
